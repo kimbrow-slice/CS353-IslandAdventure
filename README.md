@@ -41,6 +41,9 @@ Enjoy your adventure!
 ### Help commands
 ![Help Commands](/HelpCommands.png)
 
+### Inventory and dropping an item
+![Inv and item drop](/Inventory.png)
+
 ### Game Play: ENDING 1 : "Your low dexterity causes you to slip and fall to your death." : 1-3 roll DEATH
 ![Game Play Ending 1](/GamePlayDeath.png)
 
