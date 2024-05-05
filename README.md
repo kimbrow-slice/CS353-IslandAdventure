@@ -6,7 +6,7 @@ As the waves begin to crash louder... and lightening cracks... you find yourself
 ## Game Features
 - Travel to 4 unqiue locations: coastline, shipwreck, cave, and cliffside.
 - Decision based outcomes influence the games progression and endings.
-- Dice based mechanics for actions and events that add an element of chance to the game.
+- d6 and d8 dice mechanics for actions and events that add an element of chance to the game. 
 - Use directional commands such as (north, south, left, right).
 - Start with an empty inventory.
 - Find 4 items which optionally can be dropped: boots, gold, helmet, rope.
@@ -37,11 +37,11 @@ As the waves begin to crash louder... and lightening cracks... you find yourself
 ### Help commands
 ![Help Commands](/HelpCommands.png)
 
-### Game Play: ENDING 1 DEATH : 1-3 roll.
+### Game Play: ENDING 1 : "Your low dexterity causes you to slip and fall to your death." : 1-3 roll DEATH
 ![Game Play Ending 1](/GamePlayDeath.png)
 
-### Game Play: ENDING 2 no death: 3-6 roll. 
+### Game Play: ENDING 2 : "You fall but a bush breaks your fall..." : 3-6 roll
 ![Game Play Ending 1](/GameEnding2.png)
 
-### Game Play: ENDING 3 WIN CONDITION
+### Game Play: ENDING 3: "You successfully climb the cliff and see a search party!" : 7+ roll WIN CONDITION
 ![Game Play Ending 1](/GameEnding3.png)
