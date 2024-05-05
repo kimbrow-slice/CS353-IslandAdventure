@@ -1,6 +1,7 @@
 # Island Adventure Game
 
 During your voyage across the sea, you notice a storm brewing ahead. The crew feels anxious, however, the treasure aboard is far too valuable to reoute now. 
+
 As the waves begin to crash louder... and lightening cracks... you find yourself lost in uneasy water. 
 
 Enjoy your adventure! 
